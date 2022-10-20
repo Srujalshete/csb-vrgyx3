@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://srujalshete.github.io/csb-vrgyx3/static/css/main.2312dee4.chunk.css",
+    "main.js": "https://srujalshete.github.io/csb-vrgyx3/static/js/main.c73a9ff8.chunk.js",
+    "main.js.map": "https://srujalshete.github.io/csb-vrgyx3/static/js/main.c73a9ff8.chunk.js.map",
+    "runtime-main.js": "https://srujalshete.github.io/csb-vrgyx3/static/js/runtime-main.d125b8af.js",
+    "runtime-main.js.map": "https://srujalshete.github.io/csb-vrgyx3/static/js/runtime-main.d125b8af.js.map",
+    "static/css/2.42d51ddf.chunk.css": "https://srujalshete.github.io/csb-vrgyx3/static/css/2.42d51ddf.chunk.css",
+    "static/js/2.fa766fac.chunk.js": "https://srujalshete.github.io/csb-vrgyx3/static/js/2.fa766fac.chunk.js",
+    "static/js/2.fa766fac.chunk.js.map": "https://srujalshete.github.io/csb-vrgyx3/static/js/2.fa766fac.chunk.js.map",
+    "index.html": "https://srujalshete.github.io/csb-vrgyx3/index.html",
+    "static/css/2.42d51ddf.chunk.css.map": "https://srujalshete.github.io/csb-vrgyx3/static/css/2.42d51ddf.chunk.css.map",
+    "static/css/main.2312dee4.chunk.css.map": "https://srujalshete.github.io/csb-vrgyx3/static/css/main.2312dee4.chunk.css.map",
+    "static/js/2.fa766fac.chunk.js.LICENSE.txt": "https://srujalshete.github.io/csb-vrgyx3/static/js/2.fa766fac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d125b8af.js",
+    "static/css/2.42d51ddf.chunk.css",
+    "static/js/2.fa766fac.chunk.js",
+    "static/css/main.2312dee4.chunk.css",
+    "static/js/main.c73a9ff8.chunk.js"
+  ]
+}
